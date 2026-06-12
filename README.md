@@ -1,4 +1,5 @@
 🚀 Awesome Machine Learning: 100 Days of Code Challenge
+
 Welcome to my Machine Learning journey! 🌟 This repository documents my 100 Days of ML Challenge, where I am building a robust, industry-ready portfolio by getting my hands dirty with real-world datasets.
 
 Instead of just memorizing algorithms, I am focusing on the complete ML pipeline—from messy data to final predictions—and observing exactly how different machine learning models impact the output results.
